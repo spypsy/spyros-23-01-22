@@ -8,7 +8,7 @@ First install packages with `npm i` and run as a normal npm app with `npm start`
 - [x] Totals & spread calculated
 - [x] Responsive orderbook orientation changes
 
-## Uncompleted
+## Incomplete
 
 - [ ] Render throttle optimizations
 - [ ] Tab Focus optimizations
